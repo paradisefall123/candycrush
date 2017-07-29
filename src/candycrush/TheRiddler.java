@@ -15,7 +15,7 @@ public class TheRiddler {
 					JOptionPane.showMessageDialog(null,"Correct");
 					
 				}else{
-				JOptionPane.showMessageDialog(null,"Wrong");	
+				JOptionPane.showMessageDialog(null,"Wrong,the answer is Matrimony ");	
 				}
 				}
 		// 5. Otherwise, say "wrong" and tell them the answer
